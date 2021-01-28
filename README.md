@@ -12,7 +12,7 @@ Steps 3 to 5 can be omitted by directly running the command `run square-coil.ulp
 The following dialog box will appear:  
 ![Dialog box](default-dialog-box.png)
 
-Here you have to modify all the parameters according to the coil you want to place.
+In the dialog box, modify all the parameters according to the coil you want to place.
 
 ## Examples
 
