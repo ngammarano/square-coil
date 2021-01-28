@@ -1,3 +1,27 @@
+/*
+MIT License
+
+Copyright (c) 2021 ngammarano
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+*/
+
 #usage "This ULP places a square coil in a board.<p>"
        "This ULP must be started from a board.<p>"
        "The parameters of the coil are:<ul>"
@@ -202,8 +226,6 @@ dlgDialog("Copper square coil") {
                 dlgCell(7, 2) dlgRealEdit(diameter, 0.1, 10.0);
                 dlgCell(8, 1) dlgLabel("Via drill diameter");             // via drill diameter
                 dlgCell(8, 2) dlgRealEdit(drill, 0.1, 10.0);
-                //dlgCell(6, 1) dlgLabel("&Layer");                       // layer number
-                //dlgCell(6, 2) dlgIntEdit(layer, 1, 255);
                 dlgCell(9, 1) dlgLabel("<hr>");
                 dlgCell(9, 2) dlgLabel("<hr>");
                 dlgCell(10, 1) dlgLabel("Offset x");                      // place with horizontal offset
