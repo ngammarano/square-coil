@@ -18,7 +18,7 @@ Here you have to modify all the parameters according to the coil you want to pla
 
 | n | W | S | din | Offset x | Offset y | Resulting coil |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 5 | 2 | 0.5 | 5 | 0 | 0 | ![Example coil 1](example-1.png) |
-| 10 | 1 | 0.5 | 5 | 0 | 0 | ![Example coil 2](example-2.png) |
-| 6 | 2 | 3 | 15 | 0 | 0 | ![Example coil 3](example-3.png) |
-| 5 | 2 | 0.5 | 5 | -14.5 | -14.5 | ![Example coil 4](example-4.png) |
+| 5 | 2 | 0.5 | 5 | 0 | 0 | <img src="example-1.png" alt="Example coil 1" width="250"/> |
+| 10 | 1 | 0.5 | 5 | 0 | 0 | <img src="example-2.png" alt="Example coil 2" width="250"/> |
+| 6 | 2 | 3 | 15 | 0 | 0 | <img src="example-3.png" alt="Example coil 3" width="250"/> |
+| 5 | 2 | 0.5 | 5 | -14.5 | -14.5 | <img src="example-4.png" alt="Example coil 4" width="250"/> |
