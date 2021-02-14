@@ -4,7 +4,7 @@ This project is an Autodesk EAGLE ULP (User Language Program) to place a square 
 ## Get started
 1. Clone this repository in `<My Documents>/EAGLE/ulps/`.
 2. Open a board in EAGLE.
-3. Go to "File" > "Run ULP..." (or click on the orange square that says "ULP").
+3. Go to "File" > "Run ULP..." (or click on "Run ULP..." EAGLE icon: <img src="Run.svg" alt="Run ULP EAGLE icon" width="20"/>).
 4. Click on "Browse...".
 5. Select the ULP file `square-coil.ulp`.  
 Steps 3 to 5 can be omitted by directly running the command `run square-coil.ulp` in EAGLE's command line.
